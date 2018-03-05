@@ -1,0 +1,18 @@
+netbeans-
+file
+new project
+java web
+web application
+project Name-AberdeenSite
+Server -Tomcat
+Server Location-location of tomcat(C:\xampp.....)
+unselect user name password
+next 
+finish
+
+
+
+
+
+AbrerdeenSite-
+right click
